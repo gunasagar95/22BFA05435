@@ -62,6 +62,14 @@ int main() {
     return 0;
 }
 
+output: 
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: Enter two numbers: 
 //Explanation:
 Functions: The program uses separate functions for each operation.
 Menu: The user can select the desired operation and input two numbers.
